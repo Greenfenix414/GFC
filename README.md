@@ -1,5 +1,4 @@
-# GFC
-GREENFENIX COOL LICENSE\
+GREENFENIX COOL LICENSE 1.0\
 Everything here is free for public use UNLESS:\
 1.You are a for-profit company.\
 2.You are an AI language model.\
