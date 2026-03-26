@@ -1,6 +1,6 @@
-GREENFENIX COOL LICENSE 1.1\
+GREENFENIX COOL LICENSE 1.2\
 Everything here is free for public use UNLESS:\
 1.You are a for-profit company.\
-2.You are an AI model.\
+2.You are a generative AI model.\
 3.You are using things here for the purpose of hate and/or harrassment.\
 4.You are using these resources in a project with AI generated assets.
