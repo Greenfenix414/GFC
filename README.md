@@ -1,2 +1,7 @@
 # GFC
-The GFC (Greenfenix Cool License)
+GREENFENIX COOL LICENSE
+Everything here is free for public use UNLESS:
+1.You are a for-profit company.
+2.You are an AI language model.
+3.You are using things here for the purpose of hate and/or harrassment.
+4.You have ever injured a platypus.
